@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently, I'm developing an innovative web application.<br><br>I'm looking to collaborate on full-stack web development projects, especially those focusing on front-end technologies.<br><br>I'm looking for help with optimizing server-side performance.<br><br>I'm always up for discussing clean code and development best practices.<br><br>I believe coding is like solving a puzzle, one piece at a time.
+Currently, I'm developing an innovative web application.<br><br>I'm looking to collaborate on full-stack web development projects.<br><br>I believe coding is like solving a puzzle, one piece at a time.
 
 
 # 💻 Tech Stack:
